@@ -15,4 +15,7 @@ url에 보내는것이 get
 
 
 리눅스 토벌즈
-public static voidmian(String[] args)
+public static voidmian(String[] args){
+
+	System.out.println("test");
+}
