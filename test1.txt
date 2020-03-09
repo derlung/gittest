@@ -1,0 +1,17 @@
+form이용해서 보낸것들은 <%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%> 이것때문에 안깨지나??
+
+
+여태까지 path에다가 보낸것들은 bno, page 등등 숫자였고
+title, keyword같은 문자계열은 url -> db작업후 끝났었다??
+1) page이동할때 있었다.
+   jsp -> action 이동할때는 한글 안깨짐
+지금 url->url (action -> action)넘어갈때 한글깨짐 발생
+
+
+
+url에 보내는것이 get
+
+
+
+리눅스 토벌즈
