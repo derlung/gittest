@@ -15,7 +15,9 @@ url¿¡ º¸³»´Â°ÍÀÌ get
 
 
 ¸®´ª½º Åä¹úÁî
-public static voidmian(String[] args){
+public static voidmian(String[] args)
+¿¿¿ ¿¿ ¿¿~~ 
+¿¿¿ ¿¿¿ ¿¿¿¿¿¿ {
 
 	System.out.println("test");
 }
