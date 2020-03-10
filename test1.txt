@@ -20,7 +20,13 @@ public static voidmian(String[] args)
 ¿¿¿ ¿¿¿ ¿¿¿¿¿¿ {
 
 	System.out.println("test");
+
 }
 
+<<<<<<< HEAD
 QlflfflflflflQlflfl
 Qlflflfl
+=======
+¿¿¿ ¿¿¿¿ ¿¿¿~
+¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+>>>>>>> hotfix
